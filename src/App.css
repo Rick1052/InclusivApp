@@ -16,6 +16,10 @@
   justify-content: space-around;
 }
 
+.logotipo{
+  height: 100%;
+}
+
 .nav-bar{
   display: flex;
 }

@@ -60,7 +60,7 @@ function Catalogo() {
                     <div className='icones'>
                         <div className='icon'>
                             <img src={cego} alt='cego'/>
-                            <label><TextReader text="Cego"/></label>
+                            <label><TextReader text="Deficiente Visual"/></label>
                         </div>
                         <div className='icon'>
                             <img src={surdo} alt='surdo'/>
@@ -76,8 +76,8 @@ function Catalogo() {
                         </div>
                     </div>
 
-                    <p className='descricao-restaurante'>
-                        <TextReader text="Retaurante inclusivo para pessoas com deficiência visual, auditiva e cadeirante."/>
+                    <p className='descricao-restaurante'>   
+                        <TextReader text="Restaurante inclusivo para pessoas com deficiência visual, auditiva e cadeirante."/>
                     </p>
 
                     <div className='row'>
@@ -100,7 +100,7 @@ function Catalogo() {
                     <div className='icones'>
                         <div className='icon'>
                             <img src={cego} alt='cego'/>
-                            <label><TextReader text="Cego"/></label>
+                            <label><TextReader text="Deficiente Visual"/></label>
                         </div>
                         <div className='icon'>
                             <img src={cadeirante} alt='cadeirante'/>
@@ -131,7 +131,7 @@ function Catalogo() {
                     <div className='icones'>
                         <div className='icon'>
                             <img src={cego} alt='cego'/>
-                            <label><TextReader text="Cego"/></label>
+                            <label><TextReader text="Deficiente Visual"/></label>
                         </div>
                         <div className='icon'>
                             <img src={surdo} alt='surdo'/>
@@ -166,7 +166,7 @@ function Catalogo() {
                     <div className='icones'>
                         <div className='icon'>
                             <img src={cego} alt='cego'/>
-                            <label><TextReader text="Cego"/></label>
+                            <label><TextReader text="Deficiente Visual"/></label>
                         </div>
                         <div className='icon'>
                             <img src={surdo} alt='surdo'/>
@@ -201,7 +201,7 @@ function Catalogo() {
                     <div className='icones'>
                         <div className='icon'>
                             <img src={cego} alt='cego'/>
-                            <label><TextReader text="Cego"/></label>
+                            <label><TextReader text="Deficiente Visual"/></label>
                         </div>
                         <div className='icon'>
                             <img src={surdo} alt='surdo'/>
@@ -236,7 +236,7 @@ function Catalogo() {
                     <div className='icones'>
                         <div className='icon'>
                             <img src={cego} alt='cego'/>
-                            <label><TextReader text="Cego"/></label>
+                            <label><TextReader text="Deficiente Visual"/></label>
                         </div>
                         <div className='icon'>
                             <img src={surdo} alt='surdo'/>
@@ -275,7 +275,7 @@ function Catalogo() {
                     <div className='icones'>
                         <div className='icon'>
                             <img src={cego} alt='cego'/>
-                            <label><TextReader text="Cego"/></label>
+                            <label><TextReader text="Deficiente Visual"/></label>
                         </div>
                         <div className='icon'>
                             <img src={surdo} alt='surdo'/>
@@ -314,7 +314,7 @@ function Catalogo() {
                     <div className='icones'>
                         <div className='icon'>
                             <img src={cego} alt='cego'/>
-                            <label><TextReader text="Cego"/></label>
+                            <label><TextReader text="Deficiente Visual"/></label>
                         </div>
                         <div className='icon'>
                             <img src={surdo} alt='surdo'/>
@@ -353,7 +353,7 @@ function Catalogo() {
                     <div className='icones'>
                         <div className='icon'>
                             <img src={cego} alt='cego'/>
-                            <label><TextReader text="Cego"/></label>
+                            <label><TextReader text="Deficiente Visual"/></label>
                         </div>
                         <div className='icon'>
                             <img src={surdo} alt='surdo'/>
@@ -388,7 +388,7 @@ function Catalogo() {
                     <div className='icones'>
                         <div className='icon'>
                             <img src={cego} alt='cego'/>
-                            <label><TextReader text="Cego"/></label>
+                            <label><TextReader text="Deficiente Visual"/></label>
                         </div>
                         <div className='icon'>
                             <img src={surdo} alt='surdo'/>

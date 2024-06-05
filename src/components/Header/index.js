@@ -2,12 +2,12 @@ import { Link } from "react-router-dom";
 
 import './../../App.css';
 
+import Logotipo from './../../assets/imagens/logotipo.png'
+
 function Header(){
     return(
         <header className="header">
-            <h1>
-                LOGO
-            </h1>
+            <img src={Logotipo} className="logotipo"/>
             <nav className="nav-bar">
                 <ul className="nav-menu">
                     <li><Link to="/" className="nav-item">HOME</Link></li>
